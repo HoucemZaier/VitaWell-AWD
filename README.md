@@ -35,7 +35,6 @@ VitaWell/
     ├── api/
     └── database/
 
-docker compose -f infrastructure/docker/docker-compose.yml up -d
 ```
 
->>>>>>> 68ed40b (add project structure)
+
