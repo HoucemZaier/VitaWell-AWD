@@ -1,0 +1,7 @@
+services:
+  # Ajouter ici les dépendances partagées (base de données, broker, etc.).
+  # Les applications Spring Boot seront ajoutées progressivement.
+  placeholder:
+    image: alpine:3.20
+    command: ["sh", "-c", "echo 'VitaWell infrastructure placeholder'"]
+
