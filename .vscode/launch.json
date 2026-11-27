@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Fitness Management Service",
+      "request": "launch",
+      "mainClass": "com.vitawell.fitness.FitnessManagementServiceApplication",
+      "projectName": "fitness-management-service"
+    }
+  ]
+}
